@@ -7,7 +7,7 @@ Add a Commander gameplay system to the server.
 Licensed under LGPL-3.0.
 
 Allowed:
-- Fork, make meaningful changes, and publish under GPL-3.0 with author attribution and source link.
+- Fork, make meaningful changes, and publish under LGPL-3.0 with author attribution and source link.
 - Use the original or modified version privately on your own server/modpack.
 
 If you publish a fork, you must:
