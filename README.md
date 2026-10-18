@@ -4,20 +4,20 @@ Add a Commander gameplay system to the server.
 
 ## Fork & Redistribution
 
-Licensed under LGPL-3.0.
+Licensed under LGPL-2.1.
 
 Allowed:
-- Fork, make meaningful changes, and publish under LGPL-3.0 with author attribution and source link.
+- Fork, make meaningful changes, and publish under LGPL-2.1 with author attribution and source link.
 - Use the original or modified version privately on your own server/modpack.
 
 If you publish a fork, you must:
-- Keep this license (LGPL-3.0)
+- Keep this license (LGPL-2.1)
 - Retain original copyright and author attribution
 - Clearly mark it as a modified/unofficial fork
 - Do NOT misrepresent origin or claim as the official project
 
 Note:
-- Re-uploading the unmodified build 1:1 to other platforms is NOT welcomed. This is an author request at the platform level, not a restriction of LGPL-3.0 itself.
+- Re-uploading the unmodified build 1:1 to other platforms is NOT welcomed. This is an author request at the platform level, not a restriction of LGPL-2.1 itself.
 - If you want to mirror/repost the exact build, ask the author first.
 
 ---
